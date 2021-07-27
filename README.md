@@ -23,7 +23,7 @@
 <h3 align="left">Connect with me:</h3>
 <br>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad usama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad usama" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-usama-477945208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad usama" height="30" width="40" /></a>
 <a href="https://fb.com/muhammad usama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad usama" height="30" width="40" /></a> 
 <br>
 </p>
