@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **m99usama@gmail.com**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play Knight Clash of Heros and go to the GYM very often.**
 
 <h3 align="left">Connect with me:</h3>
 <br>
